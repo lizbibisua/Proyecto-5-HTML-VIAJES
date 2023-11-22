@@ -5,6 +5,7 @@ import {
     londres
 } from './ciudades.js'
 
+
 //Elementos del DOM
 let enlaces = document.querySelectorAll('a')
 let tituloElemento = document.getElementById('titulo')
